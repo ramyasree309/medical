@@ -257,9 +257,10 @@ def main():
         # Team Members
         st.markdown("#### 👨‍💻 Team Members")
         team_members = [
-            "Shaik Afroz",
-            "Shaik Sudheer Basha",
-            "P. Lakshmi Narendra"
+            "C.K Ramyasree",
+            "N. Anusha",
+            "G. Kiruthiga"
+            "K. Sireesha"
         ]
         
         for member in team_members:
